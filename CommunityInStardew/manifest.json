@@ -1,0 +1,16 @@
+{
+    "Name": "Community In Stardew",
+    "Author": "dotfortun3",
+    "Version": "1.0.1",
+    "Description": "A mod that slows time when you enter your house",
+    "UniqueID": "dotfortun3.CommunityInStardew",
+    "EntryDll": "CommunityInStardew.dll",
+    "Dependencies": [
+        {
+            "UniqueID": "Platonymous.Toolkit",
+            "MinimumVersion": "1.13.36"
+        }
+    ],
+    "MinimumApiVersion": "2.10.0",
+    "UpdateKeys": []
+}

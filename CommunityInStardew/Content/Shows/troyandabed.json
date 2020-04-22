@@ -1,0 +1,671 @@
+﻿{
+    "ShowId": "t&a",
+    "ShowTitle": "Troy and Abed in the Morning!",
+    "TexturePath": "Content\\Assets\\troyandabed.png",
+    "Scripts": [
+        {
+            "EpisodeTitle": "Virtual Systems Analysis",
+            "StartTime": 600,
+            "EndTime": 900,
+            "Pages": [
+                {
+                    "Text": "Troy and Abed in the Moooooorrrrrning!",
+                    "x": 504,
+                    "y": 0
+                },
+                {
+                    "Text": "Today we're joined by Annie Edison...",
+                    "x": 462,
+                    "y": 0
+                },
+                {
+                    "Text": "Hi!",
+                    "x": 84,
+                    "y": 0
+                },
+                {
+                    "Text": "...Who's gonna show us how to spruce up your apartment on a budget. So, Annie, what inspired this throw?",
+                    "x": 588,
+                    "y": 0
+                },
+                {
+                    "Text": " Well, I just thought that I'd cover up the stain where Abed spilled code red on the couch last week.",
+                    "x": 84,
+                    "y": 0
+                },
+                {
+                    "Text": "Oops. Crafty.",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "And you have some tips on entertaining.",
+                    "x": 588,
+                    "y": 0
+                },
+                {
+                    "Text": "Yes, if you're expecting company, but you don't have enough chairs, you can bring out pillows from your bedroom and use them on the floor for a Moroccan feel.",
+                    "x": 126,
+                    "y": 0
+                },
+                {
+                    "Text": "Ooh, a taste of the Orient.",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Ooh! Actually, boys, I have a little surprise for you.",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Uh-oh.",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "While you two were out playing blazer tag...",
+                    "x": 84,
+                    "y": 0
+                },
+                {
+                    "Text": "That's laser tag with sport coats.",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "I did a little extreme bedroom makeover! I unbunked your beds and got scrap fabric and...",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "[High-pitched whine]",
+                    "x": 42,
+                    "y": 0
+                },
+                {
+                    "Text": "It's okay, buddy. We can put it back. We can put it back the way it was.",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "I'm so sorry.",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "It's okay.",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "[Whining continues]",
+                    "x": 252,
+                    "y": 0
+                },
+                {
+                    "Text": "Cut, Garrett!",
+                    "x": 378,
+                    "y": 0
+                },
+                {
+                    "Text": "Sorry!",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "[Stuttering whine]",
+                    "x": 42,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "EpisodeTitle": "The Science of Illusion",
+            "StartTime": 600,
+            "EndTime": 700,
+            "Pages": [
+                {
+                    "Text": "Troy: We really appreciate you doing this.",
+                    "x": 504,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff: Sure.",
+                    "x": 462,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: And three.",
+                    "x": 84,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Two.",
+                    "x": 588,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: One.",
+                    "x": 84,
+                    "y": 0
+                },
+                {
+                    "Text": "Both: Troy and Abed in the Moooooorrrrrning!",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: And we're back, look who's here, Jeff Winger!",
+                    "x": 588,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Jeff, how do you stay so fit?",
+                    "x": 126,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff: Uhhh, diet, exercise... *shrug* ... genetics",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Both: Ha ha ha ha ha! Sure, sure.",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Ok, so it seems as though we have a clip. You want to set it up for us?",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff: Uh, I'd like to, but I don't what you are talking about.",
+                    "x": 84,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Ok, we'll just roll it.",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Oh, my name's Jeff Winger, OhHHhhHh.",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Hey! I'm Jeff Winger, I'm so tall.",
+                    "x": 42,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Ah, this watch is expensive!",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Muscles are everywhere!",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Oh! That was really funny!",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff: Guys, what's going on? Where are the cameras?",
+                    "x": 252,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Oh, we're not filming this.",
+                    "x": 378,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: No, who'd want to watch this?",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff: Ugh! Guys! It's 6am! Jeeze!",
+                    "x": 42,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: We're not gonna have him back.",
+                    "x": 42,
+                    "y": 0
+                },
+                {
+                    "Text": "Both: Troy and Abed in the Mooooo-",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff: NO!",
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "EpisodeTitle": "Aerodynamics of Gender",
+            "StartTime": 600,
+            "EndTime": 900,
+            "Pages": [
+                {
+                    "Text": "Both: Troy and Abed in the Moooooorrrrrning!",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: And we're back, with Greendale's resident animal expert, Starburns!",
+                    "x": 588,
+                    "y": 0
+                },
+                {
+                    "Text": "Starburns: My name's Alex.",
+                    "x": 126,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Starburns joins us with his pet turtle, Shelly. Now I understand Shelly can eat over five mice a day.",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Phew, that's impressive!",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Starburns: Turtles don't eat mice...",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: What do they eat?",
+                    "x": 84,
+                    "y": 0
+                },
+                {
+                    "Text": "Starburns: I don't know... Pellets? I have no idea...",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: That's disappointing...",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: That's not good...",
+                    "x": 42,
+                    "y": 0
+                },
+                {
+                    "Text": "Starburns: Look, what is going on here? I was studying for my Econ midterm. You guys walk in, you hand me this turtle, and then you tell me to smile for the folks at home.",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Starburns: What folks at home?!",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "Both: Oh-hahahaha-Ohh! Starburns!",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Starburns: These things give you Semonila ya know!",
+                    "x": 252,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Let's go to Garrett with a check on the weather.",
+                    "x": 378,
+                    "y": 0
+                },
+                {
+                    "Text": "Garrett: It's still sunny.",
+                    "x": 168,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "EpisodeTitle": "Asian Population Studies",
+            "StartTime": 600,
+            "EndTime": 900,
+            "Pages": [
+                {
+                    "Text": "Abed: And we're back! Today we'll show you how to make homemade kettle corn with Dr. Rich!",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Rich, how do I get one of those giant spoons?",
+                    "x": 588,
+                    "y": 0
+                },
+                {
+                    "Text": "Rich: Well, actually I carved this one myself, after lightning struck an oak tree in my backyard.",
+                    "x": 126,
+                    "y": 0
+                },
+                {
+                    "Text": "Rich: And then, I made my nephew a rocking horse.",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: That's adorable.",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: That smells heavenly. Dr. Rich, what sets your kettle corn apart?",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Dr. Rich: Well, it's a secret ingredient...",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Dr. Rich: A couple extra pinches of love.",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Ohhhhh, no, you can't beat that!",
+                    "x": 42,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: It feels good, right?",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff: Not this again! Rich, ya know they are doing a fake morning show? There are no cameras!",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "Dr. Rich: I know... It's just a fun way to start the day! So grab a paddle partner and hop on in here!",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff: Ya know what, that does sound-*door slam*",
+                    "x": 252,
+                    "y": 0
+                },
+                {
+                    "Text": "All: Troy and Abed in the Moooooorrrrrning!",
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "EpisodeTitle": "Curriculum Unavailable",
+            "StartTime": 1500,
+            "EndTime": 1800,
+            "Pages": [
+                {
+                    "Text": "Annie: Troy and Abed and Annnniiiieee in the Moooooorrrrrning!",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: What are you doing?",
+                    "x": 588,
+                    "y": 0
+                },
+                {
+                    "Text": "Annie: Nothing...",
+                    "x": 126,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Nothing my ass! What are all these cameras doing here?!",
+                    "x": 546,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "EpisodeTitle": "Troy and Abed in the Morning... Nights",
+            "StartTime": 100,
+            "EndTime": 200,
+            "Pages": [
+                {
+                    "Text": "Both: Troy and Abed in the Moooooorrrrrning... Nights!",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Welcome back all you night owls!",
+                    "x": 588,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Troy, why don't we open up the phone lines?",
+                    "x": 126,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Talk to us, lonely hearts!.",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: We got Jeff W. calling.",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff W.: Hello?",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Hey Jeff, what's your question?",
+                    "x": 84,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff W.: Who is this?",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Great question, we're us!",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Jeff W.: Guys! It's one in the morning! I am trying to sleep!",
+                    "x": 42,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: I am sorry to hear that Jeff. Why don't you stay on the line and we'll get your information?",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Yeah, we'll get you the help you need!",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Our next caller tonight is Annie E. What's on your mind tonight Annie?",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Annie: Hey guys! Long time, first time, love the show!",
+                    "x": 252,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Aww, appreciate ya, how can we help?",
+                    "x": 378,
+                    "y": 0
+                },
+                {
+                    "Text": "* loud bangs on door *",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "Annie: You can shut up and go to sleep!",
+                    "x": 252,
+                    "y": 0
+                },
+                {
+                    "Text": "Both: ...",
+                    "x": 252,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Well, Jack's and Jill's, that's about all the time we have tonight.",
+                    "x": 378,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Yeah, until next time, may your dreams be sweet and your nightmares be spooky monster scary and not grandma died scary.",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "Both: Troy and Abed in the Moooooorrrrrning... Nights!",
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "EpisodeTitle": "Advanced Introduction to Finality",
+            "StartTime": 600,
+            "EndTime": 900,
+            "Pages": [
+                {
+                    "Text": "Evil Abed & Evil Troy: Troy and Abed in the Moooooorrrrrning!",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Abed: Welcome back. We've got a jam packed show, so let's get started.",
+                    "x": 588,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Troy: Today, as always, we'll be visited once again, by Greendale's king and supreme lord master, Dean Chang.",
+                    "x": 126,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Abed: Looks like he will be talking about squash this time!",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Troy: Oh! I am super excited for that. And not only because it's mandatory.",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Abed: Mmm! But first we'll take a spin around the timeline map and find out what's happening in the universes that parallel ours...",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy #5: Thanks us! I am standing here in Timeline 5, where things are pretty much normal.",
+                    "x": 84,
+                    "y": 0
+                },
+                {
+                    "Text": "Brita #5: Normal? Troy, people are on fire in Niarobi! You call that normal?!",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Brita #5: I've become much more concious of world issues since Troy and I decided to give our baby an African name. Isn't that right Chewbacca?",
+                    "x": 630,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy #5: It means he who hunts bounties. Back to you.",
+                    "x": 42,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Troy: Wow, it sounds like things are really heating up in Niarobi!",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Abed: That's nothing compared to the fire in our studio audience!",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "* drunk Shirley *",
+                    "x": 546,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Jeff: Hey idiiots! How many times have I told you that this show doesn't really exist? No one's watching!",
+                    "x": 252,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Troy: Duh doy!",
+                    "x": 378,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Abed: Yeah, we're just messing around. See you at lunch Evil Jeff.",
+                    "x": 252,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Jeff: See you at lunch.",
+                    "x": 252,
+                    "y": 0
+                },
+                {
+                    "Text": "Abed: Well, Jack's and Jill's, that's about all the time we have tonight.",
+                    "x": 378,
+                    "y": 0
+                },
+                {
+                    "Text": "Troy: Yeah, until next time, may your dreams be sweet and your nightmares be spooky monster scary and not grandma died scary.",
+                    "x": 168,
+                    "y": 0
+                },
+                {
+                    "Text": "Both: Troy and Abed in the Moooooorrrrrning... Nights!",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "Text": "Evil Abed & Evil Troy: Troy and Abed in the Moooooorrrrrning!",
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        }
+    ]
+}
