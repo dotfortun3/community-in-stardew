@@ -73,8 +73,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Framework\TV\TvScript.cs" />
-    <Compile Include="Framework\TickProgressChangedEventArgs.cs" />
-    <Compile Include="Framework\TimeHelper.cs" />
     <Compile Include="CommunityMod.cs" />
     <Compile Include="Framework\Music\MusicManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
